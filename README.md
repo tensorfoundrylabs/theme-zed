@@ -1,15 +1,22 @@
 # TensorFoundry Theme for Zed
 
-Two low-glare dark themes built for long sessions in Zed. Both use the [TensorFoundry](https://tensorfoundry.io) palette—forge orange, violet, and cyan—with softened syntax colours to keep code structure clear without visual noise.
+Two low-glare dark themes built for long sessions in Zed. Both use the [TensorFoundry](https://tensorfoundry.io) palette-forge orange, violet, and cyan-with softened syntax colours to keep code structure clear without visual noise.
 
 - **TensorFoundry Dark** uses soothing graphite and midnight-slate surfaces with clear separation between editor, navigation, tabs, and panels.
 - **TensorFoundry Dark Night** is the deeper near-black variant for distraction-free work.
 
 ## TensorFoundry Dark in action
 
+*A focused Rust workspace with distinct navigation and editor surfaces, semantically grouped syntax colours, a clearly highlighted active file, and an integrated terminal that belongs to the same visual system. Click the preview for the full-size image.*
+
+### TensorFoundry Dark
+
 [![TensorFoundry Dark in Zed, showing Rust syntax highlighting, the project panel, active editor, and integrated terminal](example.png)](example.png)
 
-*A focused Rust workspace with distinct navigation and editor surfaces, semantically grouped syntax colours, a clearly highlighted active file, and an integrated terminal that belongs to the same visual system. Click the preview for the full-size image.*
+## TensorFoundry Dark Night
+
+[![TensorFoundry Dark Night in Zed, showing Rust syntax highlighting, the project panel, active editor, and integrated terminal](example-night.png)](example-night.png)
+
 
 ## Install for development
 
