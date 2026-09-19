@@ -1,0 +1,16 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor and local workspace files
+.idea/
+.vscode/
+.zed/
+*.swp
+*.swo
+*~
+
+# Language tooling used by the syntax gallery
+__pycache__/
+*.py[cod]
+target/
