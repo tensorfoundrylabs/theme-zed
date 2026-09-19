@@ -35,16 +35,20 @@ The [`examples`](examples/) directory contains representative Go, Rust, Python, 
 
 ## Palette
 
-| Role | Colour |
-| --- | --- |
-| Dark editor | `#191D27` |
-| Dark surface | `#191E29` |
-| Dark Night editor | `#0C0C0F` |
-| Dark editor text | `#DADCE3` |
-| Dark Night editor text | `#D8D7DE` |
-| Forge orange | `#FF7A00` |
-| Violet | `#A33CFF` |
-| Cyan | `#3AD6FF` |
+[![TensorFoundry colour palette with surface, brand, syntax, and status swatches](assets/palette.svg)](assets/palette.svg)
+
+### Surfaces
+
+| Role | Dark | Dark Night |
+| --- | --- | --- |
+| App background | `#131720` | `#0B0B0E` |
+| Editor | `#191D27` | `#0C0C0F` |
+| Surface | `#191E29` | `#101014` |
+| Elevated menus and dialogs | `#293142` | `#22222B` |
+| Editor text | `#DADCE3` | `#D8D7DE` |
+| Muted text | `#A0A3AF` | `#9A99A6` |
+
+The brand accents are forge orange `#FF7A00`, forge violet `#A33CFF`, and forge cyan `#3AD6FF`.
 
 ### Syntax roles
 
@@ -61,7 +65,18 @@ The [`examples`](examples/) directory contains representative Go, Rust, Python, 
 | Strings | `#A9C77D` tempered sage |
 | Operators | `#C78569` subdued copper |
 
-The palette groups code by meaning: warm tones describe control and action, violet describes structure, rose marks inputs, cool mineral tones identify metadata and member data, and green is reserved for literal content. The saturated TensorFoundry orange (`#FF7A00`) remains reserved for focus borders and other strong interface signals.
+### Status and heat
+
+| Role | Colour |
+| --- | --- |
+| Unsaved buffer | `#FF7A00` hot core |
+| Modified file | `#E59B75` ember |
+| Information | `#67DFF5` |
+| Success and created | `#73DACA` |
+| Warning | `#E6C384` |
+| Error and deleted | `#F7768E` |
+
+The palette groups code by meaning: warm tones describe control and action, violet describes structure, rose marks inputs, cool mineral tones identify metadata and member data, and green is reserved for literal content. Saturated TensorFoundry orange is reserved for focus and unsaved-work signals—the "hot tensorcube" at the centre of the interface.
 
 ## Rich semantic highlighting
 

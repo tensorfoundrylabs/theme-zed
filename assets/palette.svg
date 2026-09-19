@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="790" viewBox="0 0 960 790" role="img" aria-labelledby="title description">
+  <title id="title">TensorFoundry theme colour palette</title>
+  <desc id="description">Colour swatches with names and hexadecimal values for surfaces, brand accents, syntax roles, and status states.</desc>
+  <style>
+    .heading { fill: #E8E9EE; font: 700 24px system-ui, sans-serif; }
+    .section { fill: #A0A3AF; font: 700 13px system-ui, sans-serif; letter-spacing: 1.5px; }
+    .role { fill: #E8E9EE; font: 500 14px system-ui, sans-serif; }
+    .hex { fill: #A0A3AF; font: 13px ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .swatch { stroke: #FFFFFF; stroke-opacity: .16; }
+  </style>
+
+  <rect width="960" height="790" rx="18" fill="#131720"/>
+  <rect x=".5" y=".5" width="959" height="789" rx="17.5" fill="none" stroke="#3B4558"/>
+  <text class="heading" x="40" y="46">TensorFoundry palette</text>
+
+  <text class="section" x="40" y="86">SURFACES</text>
+  <g transform="translate(40 104)">
+    <rect class="swatch" width="28" height="28" rx="6" fill="#131720"/><text class="role" x="42" y="19">Dark app</text><text class="hex" x="250" y="19">#131720</text>
+    <g transform="translate(0 42)"><rect class="swatch" width="28" height="28" rx="6" fill="#191D27"/><text class="role" x="42" y="19">Dark editor</text><text class="hex" x="250" y="19">#191D27</text></g>
+    <g transform="translate(0 84)"><rect class="swatch" width="28" height="28" rx="6" fill="#191E29"/><text class="role" x="42" y="19">Dark surface</text><text class="hex" x="250" y="19">#191E29</text></g>
+    <g transform="translate(0 126)"><rect class="swatch" width="28" height="28" rx="6" fill="#293142"/><text class="role" x="42" y="19">Dark elevated</text><text class="hex" x="250" y="19">#293142</text></g>
+  </g>
+  <g transform="translate(500 104)">
+    <rect class="swatch" width="28" height="28" rx="6" fill="#0B0B0E"/><text class="role" x="42" y="19">Dark Night app</text><text class="hex" x="250" y="19">#0B0B0E</text>
+    <g transform="translate(0 42)"><rect class="swatch" width="28" height="28" rx="6" fill="#0C0C0F"/><text class="role" x="42" y="19">Dark Night editor</text><text class="hex" x="250" y="19">#0C0C0F</text></g>
+    <g transform="translate(0 84)"><rect class="swatch" width="28" height="28" rx="6" fill="#101014"/><text class="role" x="42" y="19">Dark Night surface</text><text class="hex" x="250" y="19">#101014</text></g>
+    <g transform="translate(0 126)"><rect class="swatch" width="28" height="28" rx="6" fill="#22222B"/><text class="role" x="42" y="19">Dark Night elevated</text><text class="hex" x="250" y="19">#22222B</text></g>
+  </g>
+
+  <text class="section" x="40" y="304">BRAND ACCENTS</text>
+  <g transform="translate(40 322)">
+    <rect class="swatch" width="28" height="28" rx="6" fill="#FF7A00"/><text class="role" x="42" y="19">Forge orange</text><text class="hex" x="250" y="19">#FF7A00</text>
+  </g>
+  <g transform="translate(350 322)">
+    <rect class="swatch" width="28" height="28" rx="6" fill="#A33CFF"/><text class="role" x="42" y="19">Forge violet</text><text class="hex" x="190" y="19">#A33CFF</text>
+  </g>
+  <g transform="translate(660 322)">
+    <rect class="swatch" width="28" height="28" rx="6" fill="#3AD6FF"/><text class="role" x="42" y="19">Forge cyan</text><text class="hex" x="180" y="19">#3AD6FF</text>
+  </g>
+
+  <text class="section" x="40" y="398">SYNTAX ROLES</text>
+  <g transform="translate(40 416)">
+    <rect class="swatch" width="28" height="28" rx="6" fill="#E59B75"/><text class="role" x="42" y="19">Keywords · muted ember</text><text class="hex" x="300" y="19">#E59B75</text>
+    <g transform="translate(0 42)"><rect class="swatch" width="28" height="28" rx="6" fill="#E7C27D"/><text class="role" x="42" y="19">Functions · foundry gold</text><text class="hex" x="300" y="19">#E7C27D</text></g>
+    <g transform="translate(0 84)"><rect class="swatch" width="28" height="28" rx="6" fill="#D3A3BA"/><text class="role" x="42" y="19">Parameters · dusty rose</text><text class="hex" x="300" y="19">#D3A3BA</text></g>
+    <g transform="translate(0 126)"><rect class="swatch" width="28" height="28" rx="6" fill="#C9A7D8"/><text class="role" x="42" y="19">Constants · soft orchid</text><text class="hex" x="300" y="19">#C9A7D8</text></g>
+    <g transform="translate(0 168)"><rect class="swatch" width="28" height="28" rx="6" fill="#7EC9D4"/><text class="role" x="42" y="19">Attributes · oxidised cyan</text><text class="hex" x="300" y="19">#7EC9D4</text></g>
+  </g>
+  <g transform="translate(500 416)">
+    <rect class="swatch" width="28" height="28" rx="6" fill="#86A8D8"/><text class="role" x="42" y="19">Namespaces · tempered cobalt</text><text class="hex" x="310" y="19">#86A8D8</text>
+    <g transform="translate(0 42)"><rect class="swatch" width="28" height="28" rx="6" fill="#8FC7B5"/><text class="role" x="42" y="19">Properties · mineral mint</text><text class="hex" x="310" y="19">#8FC7B5</text></g>
+    <g transform="translate(0 84)"><rect class="swatch" width="28" height="28" rx="6" fill="#B6A0E0"/><text class="role" x="42" y="19">Types · forge violet</text><text class="hex" x="310" y="19">#B6A0E0</text></g>
+    <g transform="translate(0 126)"><rect class="swatch" width="28" height="28" rx="6" fill="#A9C77D"/><text class="role" x="42" y="19">Strings · tempered sage</text><text class="hex" x="310" y="19">#A9C77D</text></g>
+    <g transform="translate(0 168)"><rect class="swatch" width="28" height="28" rx="6" fill="#C78569"/><text class="role" x="42" y="19">Operators · subdued copper</text><text class="hex" x="310" y="19">#C78569</text></g>
+  </g>
+
+  <text class="section" x="40" y="664">STATUS &amp; HEAT</text>
+  <g transform="translate(40 682)">
+    <rect class="swatch" width="28" height="28" rx="6" fill="#FF7A00"/><text class="role" x="42" y="19">Dirty · hot core</text><text class="hex" x="250" y="19">#FF7A00</text>
+    <g transform="translate(0 42)"><rect class="swatch" width="28" height="28" rx="6" fill="#E59B75"/><text class="role" x="42" y="19">Modified · ember</text><text class="hex" x="250" y="19">#E59B75</text></g>
+  </g>
+  <g transform="translate(350 682)">
+    <rect class="swatch" width="28" height="28" rx="6" fill="#73DACA"/><text class="role" x="42" y="19">Success · created</text><text class="hex" x="220" y="19">#73DACA</text>
+    <g transform="translate(0 42)"><rect class="swatch" width="28" height="28" rx="6" fill="#E6C384"/><text class="role" x="42" y="19">Warning</text><text class="hex" x="220" y="19">#E6C384</text></g>
+  </g>
+  <g transform="translate(660 682)">
+    <rect class="swatch" width="28" height="28" rx="6" fill="#67DFF5"/><text class="role" x="42" y="19">Information</text><text class="hex" x="170" y="19">#67DFF5</text>
+    <g transform="translate(0 42)"><rect class="swatch" width="28" height="28" rx="6" fill="#F7768E"/><text class="role" x="42" y="19">Error · deleted</text><text class="hex" x="170" y="19">#F7768E</text></g>
+  </g>
+</svg>
