@@ -27,6 +27,22 @@ To use only the theme files, copy `themes/tensorfoundry-dark.json` and `themes/t
 | Violet | `#A33CFF` |
 | Cyan | `#3AD6FF` |
 
+### Syntax roles
+
+| Role | Colour |
+| --- | --- |
+| Keywords and directives | `#E59B75` muted ember |
+| Functions and methods | `#E7C27D` foundry gold |
+| Parameters | `#D3A3BA` dusty rose |
+| Constants and numbers | `#C9A7D8` soft orchid |
+| Attributes and decorators | `#7EC9D4` oxidised cyan |
+| Properties and members | `#8FC7B5` mineral mint |
+| Types and constructors | `#B6A0E0` forge violet |
+| Strings | `#A9C77D` tempered sage |
+| Operators | `#C78569` subdued copper |
+
+The palette groups code by meaning: warm tones describe control and action, violet describes structure, rose marks inputs, cool mineral tones identify metadata and member data, and green is reserved for literal content. The saturated TensorFoundry orange (`#FF7A00`) remains reserved for focus borders and other strong interface signals.
+
 ## License
 
 MIT
