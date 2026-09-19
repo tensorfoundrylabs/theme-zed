@@ -1,9 +1,11 @@
-# TensorFoundry Theme for Zed
+# TensorFoundry for Zed
 
 Two low-glare dark themes built for long sessions in Zed. Both use the [TensorFoundry](https://tensorfoundry.io) palette-forge orange, violet, and cyan-with softened syntax colours to keep code structure clear without visual noise.
 
 - **TensorFoundry Dark** uses soothing graphite and midnight-slate surfaces with clear separation between editor, navigation, tabs, and panels.
 - **TensorFoundry Dark Night** is the deeper near-black variant for distraction-free work.
+
+Designed to be easy on the eyes for long sessions in Zed.
 
 ## TensorFoundry Dark in action
 
