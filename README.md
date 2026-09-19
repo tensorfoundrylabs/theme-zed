@@ -36,12 +36,29 @@ To use only the theme files, copy `themes/tensorfoundry-dark.json` and `themes/t
 | Parameters | `#D3A3BA` dusty rose |
 | Constants and numbers | `#C9A7D8` soft orchid |
 | Attributes and decorators | `#7EC9D4` oxidised cyan |
+| Namespaces and modules | `#86A8D8` tempered cobalt |
 | Properties and members | `#8FC7B5` mineral mint |
 | Types and constructors | `#B6A0E0` forge violet |
 | Strings | `#A9C77D` tempered sage |
 | Operators | `#C78569` subdued copper |
 
 The palette groups code by meaning: warm tones describe control and action, violet describes structure, rose marks inputs, cool mineral tones identify metadata and member data, and green is reserved for literal content. The saturated TensorFoundry orange (`#FF7A00`) remains reserved for focus borders and other strong interface signals.
+
+## Rich semantic highlighting
+
+For language-aware distinctions such as imported Go packages in `fmt.Errorf` or `constants.ContextRoutePrefixKey`, enable combined semantic tokens in Zed's `settings.json`:
+
+```json
+{
+  "languages": {
+    "Go": {
+      "semantic_tokens": "combined"
+    }
+  }
+}
+```
+
+Zed will keep Tree-sitter highlighting as its base and overlay information from gopls. Imported package names then use the theme's tempered-cobalt namespace colour. Run `editor: restart language server` after changing this setting if an open Go buffer does not update immediately.
 
 ## License
 
