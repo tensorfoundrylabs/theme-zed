@@ -1,0 +1,7 @@
+id = "tensorfoundry-theme"
+name = "TensorFoundry Theme"
+schema_version = 1
+version = "0.1.0"
+authors = ["TensorFoundry"]
+description = "Two soothing dark Zed themes with TensorFoundry orange, violet, and cyan accents."
+repository = "https://github.com/TensorFoundry/themes"
