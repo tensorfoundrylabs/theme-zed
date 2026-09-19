@@ -1,0 +1,41 @@
+/* A compact CSS syntax gallery for the TensorFoundry theme. */
+
+:root {
+  --forge-orange: #ff7a00;
+  --surface-raised: #293142;
+  --text-primary: #e8e9ee;
+  color-scheme: dark;
+}
+
+.route-card[data-state="active"] {
+  display: grid;
+  grid-template-columns: minmax(8rem, 1fr) 2fr;
+  gap: clamp(0.75rem, 2vw, 1.5rem);
+  padding: 1rem 1.25rem;
+  color: var(--text-primary);
+  background: color-mix(in srgb, var(--surface-raised) 92%, var(--forge-orange));
+  border: 1px solid rgb(255 122 0 / 35%);
+  border-radius: 0.625rem;
+}
+
+.route-card:is(:hover, :focus-within) {
+  border-color: var(--forge-orange);
+  transform: translateY(-1px);
+}
+
+.route-card__method::before {
+  content: "→";
+  margin-inline-end: 0.5ch;
+}
+
+@media (width <= 48rem) {
+  .route-card {
+    grid-template-columns: 1fr;
+  }
+}
+
+@supports (backdrop-filter: blur(1rem)) {
+  .route-card {
+    backdrop-filter: blur(1rem);
+  }
+}

@@ -1,6 +1,6 @@
-# TensorFoundry for Zed
+# TensorFoundry Theme for Zed
 
-Two low-glare dark themes built for long sessions in Zed. Both use the TensorFoundry palette—forge orange, violet, and cyan—with softened syntax colours to keep code structure clear without visual noise.
+Two low-glare dark themes built for long sessions in Zed. Both use the [TensorFoundry](https://tensorfoundry.io) palette—forge orange, violet, and cyan—with softened syntax colours to keep code structure clear without visual noise.
 
 - **TensorFoundry Dark** uses soothing graphite and midnight-slate surfaces with clear separation between editor, navigation, tabs, and panels.
 - **TensorFoundry Dark Night** is the deeper near-black variant for distraction-free work.
@@ -13,6 +13,10 @@ Two low-glare dark themes built for long sessions in Zed. Both use the TensorFou
 4. Run `theme selector: toggle` and choose **TensorFoundry Dark** or **TensorFoundry Dark Night**.
 
 To use only the theme files, copy `themes/tensorfoundry-dark.json` and `themes/tensorfoundry-dark-night.json` into `~/.config/zed/themes/`, then select either variant from Zed's theme selector.
+
+## Syntax gallery
+
+The [`examples`](examples/) directory contains representative Go, Rust, Python, CSS, Svelte, and Zig files for reviewing the theme across different grammars and semantic constructs.
 
 ## Palette
 
@@ -46,7 +50,7 @@ The palette groups code by meaning: warm tones describe control and action, viol
 
 ## Rich semantic highlighting
 
-For language-aware distinctions such as imported Go packages in `fmt.Errorf` or `constants.ContextRoutePrefixKey`, enable combined semantic tokens in Zed's `settings.json`:
+For language-aware distinctions such as imported Go packages in `fmt.Errorf`, enable combined semantic tokens in Zed's `settings.json`:
 
 ```json
 {
