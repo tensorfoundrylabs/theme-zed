@@ -17,11 +17,21 @@ Two low-glare dark themes built for long sessions in Zed. Both use the [TensorFo
 
 [![TensorFoundry Dark Night in Zed, showing Rust syntax highlighting, the project panel, active editor, and integrated terminal](example-night.png)](example-night.png)
 
+## Install via Zed
+
+TensorFoundry is published in Zed's extension registry as `tensorfoundry-theme`.
+
+1. Open the Extensions view with `zed: extensions` from the command palette (`ctrl-shift-x` on Linux and Windows, `cmd-shift-x` on macOS).
+2. Search for **TensorFoundry** and select **Install**.
+3. Run `theme selector: toggle` and choose **TensorFoundry Dark** or **TensorFoundry Dark Night**.
+
 ## Install as a development extension
 
-1. Open Zed's command palette.
-2. Run `zed: install dev extension`.
-3. Select this directory.
+Use this to try unreleased changes or work on the theme itself. Uninstall the registry version first so the two don't conflict.
+
+1. Clone this repository.
+2. Open Zed's command palette and run `zed: install dev extension`.
+3. Select the cloned directory.
 4. Run `theme selector: toggle` and choose **TensorFoundry Dark** or **TensorFoundry Dark Night**.
 
 To use only the theme files, copy `themes/tensorfoundry-dark.json` and `themes/tensorfoundry-dark-night.json` into `~/.config/zed/themes/`, then select either variant from Zed's theme selector.
