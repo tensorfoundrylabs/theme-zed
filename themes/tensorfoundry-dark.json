@@ -136,8 +136,8 @@
           "#82AAFF"
         ],
         "players": [
-          { "cursor": "#FF8A26", "selection": "#A33CFF3D", "background": "#FF8A26" },
-          { "cursor": "#A86EFF", "selection": "#A33CFF3D", "background": "#A86EFF" },
+          { "cursor": "#FF8A26", "selection": "#7E6BB04D", "background": "#FF8A26" },
+          { "cursor": "#A86EFF", "selection": "#7E6BB04D", "background": "#A86EFF" },
           { "cursor": "#3AD6FF", "selection": "#3AD6FF3D", "background": "#3AD6FF" },
           { "cursor": "#73DACA", "selection": "#73DACA3D", "background": "#73DACA" },
           { "cursor": "#E6C384", "selection": "#E6C3843D", "background": "#E6C384" },
