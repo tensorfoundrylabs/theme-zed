@@ -32,7 +32,7 @@
 
         "text": "#E9E8ED",
         "text.muted": "#9A99A6",
-        "text.placeholder": "#777682",
+        "text.placeholder": "#83828E",
         "text.disabled": "#5C5B65",
         "text.accent": "#FF7A00",
         "icon": "#B4B2BD",
@@ -157,7 +157,7 @@
         "terminal.ansi.magenta": "#A98AE6",
         "terminal.ansi.cyan": "#55C7DA",
         "terminal.ansi.white": "#C9C8D0",
-        "terminal.ansi.bright_black": "#666570",
+        "terminal.ansi.bright_black": "#777682",
         "terminal.ansi.bright_red": "#F7768E",
         "terminal.ansi.bright_green": "#73DACA",
         "terminal.ansi.bright_yellow": "#E6C384",
