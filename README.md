@@ -68,7 +68,7 @@ The brand accents are forge orange `#FF7A00`, forge violet `#A33CFF`, and forge 
 | Attributes and decorators | `#7EC9D4` oxidised cyan |
 | Namespaces and modules | `#86A8D8` tempered cobalt |
 | Properties and members | `#8FC7B5` mineral mint |
-| Types and constructors | `#AC96EC` forge violet |
+| Types and constructors | `#A89AE2` forge violet |
 | Strings | `#A9C77D` tempered sage |
 | Operators | `#C78569` subdued copper |
 

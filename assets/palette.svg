@@ -49,7 +49,7 @@
   <g transform="translate(500 416)">
     <rect class="swatch" width="28" height="28" rx="6" fill="#86A8D8"/><text class="role" x="42" y="19">Namespaces · tempered cobalt</text><text class="hex" x="310" y="19">#86A8D8</text>
     <g transform="translate(0 42)"><rect class="swatch" width="28" height="28" rx="6" fill="#8FC7B5"/><text class="role" x="42" y="19">Properties · mineral mint</text><text class="hex" x="310" y="19">#8FC7B5</text></g>
-    <g transform="translate(0 84)"><rect class="swatch" width="28" height="28" rx="6" fill="#AC96EC"/><text class="role" x="42" y="19">Types · forge violet</text><text class="hex" x="310" y="19">#AC96EC</text></g>
+    <g transform="translate(0 84)"><rect class="swatch" width="28" height="28" rx="6" fill="#A89AE2"/><text class="role" x="42" y="19">Types · forge violet</text><text class="hex" x="310" y="19">#A89AE2</text></g>
     <g transform="translate(0 126)"><rect class="swatch" width="28" height="28" rx="6" fill="#A9C77D"/><text class="role" x="42" y="19">Strings · tempered sage</text><text class="hex" x="310" y="19">#A9C77D</text></g>
     <g transform="translate(0 168)"><rect class="swatch" width="28" height="28" rx="6" fill="#C78569"/><text class="role" x="42" y="19">Operators · subdued copper</text><text class="hex" x="310" y="19">#C78569</text></g>
   </g>
