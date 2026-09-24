@@ -136,7 +136,7 @@
           "#82AAFF"
         ],
         "players": [
-          { "cursor": "#FF8A26", "selection": "#FF7A003D", "background": "#FF8A26" },
+          { "cursor": "#FF8A26", "selection": "#A33CFF3D", "background": "#FF8A26" },
           { "cursor": "#A86EFF", "selection": "#A33CFF3D", "background": "#A86EFF" },
           { "cursor": "#3AD6FF", "selection": "#3AD6FF3D", "background": "#3AD6FF" },
           { "cursor": "#73DACA", "selection": "#73DACA3D", "background": "#73DACA" },
