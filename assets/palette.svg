@@ -43,13 +43,13 @@
     <rect class="swatch" width="28" height="28" rx="6" fill="#E59B75"/><text class="role" x="42" y="19">Keywords · muted ember</text><text class="hex" x="300" y="19">#E59B75</text>
     <g transform="translate(0 42)"><rect class="swatch" width="28" height="28" rx="6" fill="#E7C27D"/><text class="role" x="42" y="19">Functions · foundry gold</text><text class="hex" x="300" y="19">#E7C27D</text></g>
     <g transform="translate(0 84)"><rect class="swatch" width="28" height="28" rx="6" fill="#D3A3BA"/><text class="role" x="42" y="19">Parameters · dusty rose</text><text class="hex" x="300" y="19">#D3A3BA</text></g>
-    <g transform="translate(0 126)"><rect class="swatch" width="28" height="28" rx="6" fill="#C9A7D8"/><text class="role" x="42" y="19">Constants · soft orchid</text><text class="hex" x="300" y="19">#C9A7D8</text></g>
+    <g transform="translate(0 126)"><rect class="swatch" width="28" height="28" rx="6" fill="#D9A2E0"/><text class="role" x="42" y="19">Constants · soft orchid</text><text class="hex" x="300" y="19">#D9A2E0</text></g>
     <g transform="translate(0 168)"><rect class="swatch" width="28" height="28" rx="6" fill="#7EC9D4"/><text class="role" x="42" y="19">Attributes · oxidised cyan</text><text class="hex" x="300" y="19">#7EC9D4</text></g>
   </g>
   <g transform="translate(500 416)">
     <rect class="swatch" width="28" height="28" rx="6" fill="#86A8D8"/><text class="role" x="42" y="19">Namespaces · tempered cobalt</text><text class="hex" x="310" y="19">#86A8D8</text>
     <g transform="translate(0 42)"><rect class="swatch" width="28" height="28" rx="6" fill="#8FC7B5"/><text class="role" x="42" y="19">Properties · mineral mint</text><text class="hex" x="310" y="19">#8FC7B5</text></g>
-    <g transform="translate(0 84)"><rect class="swatch" width="28" height="28" rx="6" fill="#B6A0E0"/><text class="role" x="42" y="19">Types · forge violet</text><text class="hex" x="310" y="19">#B6A0E0</text></g>
+    <g transform="translate(0 84)"><rect class="swatch" width="28" height="28" rx="6" fill="#A89AE2"/><text class="role" x="42" y="19">Types · soft forge violet</text><text class="hex" x="310" y="19">#A89AE2</text></g>
     <g transform="translate(0 126)"><rect class="swatch" width="28" height="28" rx="6" fill="#A9C77D"/><text class="role" x="42" y="19">Strings · tempered sage</text><text class="hex" x="310" y="19">#A9C77D</text></g>
     <g transform="translate(0 168)"><rect class="swatch" width="28" height="28" rx="6" fill="#C78569"/><text class="role" x="42" y="19">Operators · subdued copper</text><text class="hex" x="310" y="19">#C78569</text></g>
   </g>

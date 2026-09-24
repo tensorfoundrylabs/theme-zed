@@ -64,11 +64,11 @@ The brand accents are forge orange `#FF7A00`, forge violet `#A33CFF`, and forge 
 | Keywords and directives | `#E59B75` muted ember |
 | Functions and methods | `#E7C27D` foundry gold |
 | Parameters | `#D3A3BA` dusty rose |
-| Constants and numbers | `#C9A7D8` soft orchid |
+| Constants and numbers | `#D9A2E0` soft orchid |
 | Attributes and decorators | `#7EC9D4` oxidised cyan |
 | Namespaces and modules | `#86A8D8` tempered cobalt |
 | Properties and members | `#8FC7B5` mineral mint |
-| Types and constructors | `#B6A0E0` forge violet |
+| Types and constructors | `#A89AE2` soft forge violet |
 | Strings | `#A9C77D` tempered sage |
 | Operators | `#C78569` subdued copper |
 
